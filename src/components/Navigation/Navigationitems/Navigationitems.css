@@ -1,0 +1,8 @@
+.Navigationitems{
+    padding: 0px;
+    height: 100%;
+    list-style: none;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
